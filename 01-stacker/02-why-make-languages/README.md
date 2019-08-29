@@ -17,20 +17,22 @@
 
 * Languages don't need to be limited to large and general purpose.
 
-* DLSs hiding in plain sight:
-  * SQL
-  * Regex
-  * CSS/HTML
-  * awk
-  * bash
-  * make
-  * ...
+### DLSs hiding in plain sight:
 
-* Benefits
-  * Enlarge/control the solution space
-  * "Better glue" - small pieces to fit in holes in larger toolchains
-  * Simpler interface around more complex code
-  * Augment mainstream programming techniques
+* SQL
+* Regex
+* CSS/HTML
+* awk
+* bash
+* make
+* ...
+
+### Benefits
+
+* Enlarge/control the solution space
+* "Better glue" - small pieces to fit in holes in larger toolchains
+* Simpler interface around more complex code
+* Augment mainstream programming techniques
 
 * New language / DSL isn't the solution to _every_ problem.
 
