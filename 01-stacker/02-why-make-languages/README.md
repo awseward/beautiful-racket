@@ -11,8 +11,9 @@
 
 * Language sets ground rules for program behavior, so a language can be a tool for discovering new ways to program.
 
->A language that doesn’t affect the way you think about program­ming is not worth knowing.
->— Alan Perlis
+> A language that doesn’t affect the way you think about program­ming is not worth knowing.
+>
+> — Alan Perlis
 
 * Languages don't need to be limited to large and general purpose.
 
