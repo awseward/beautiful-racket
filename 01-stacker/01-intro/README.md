@@ -1,4 +1,4 @@
-# 01 [Intro](https://beautifulracket.com/stacker/intro.html)
+# [Intro](https://beautifulracket.com/stacker/intro.html)
 
 ## Notes
 
